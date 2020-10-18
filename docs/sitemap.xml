@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://idshklein.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idshklein.github.io/publication_list/</loc>
+    <loc>/publication_list/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idshklein.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://idshklein.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://idshklein.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
