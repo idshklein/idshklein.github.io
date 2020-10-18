@@ -12,10 +12,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [[menu.main]]
     name = "About"
-    url = "about"
+    url = "/about/"
 [[menu.main]]
     name = "Publication list"
-    url = "Publication_list"
+    url = "/Publication_list/"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/idshklein"
