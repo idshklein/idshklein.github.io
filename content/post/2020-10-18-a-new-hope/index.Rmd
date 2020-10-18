@@ -1,0 +1,10 @@
+---
+title: A new hope
+author: Ido Klein
+date: '2020-10-18'
+slug: a-new-hope
+categories: []
+tags: []
+---
+Hello there!  
+How are you?
