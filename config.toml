@@ -3,7 +3,6 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Ido Klein's Website"
 theme = "hugo-lithium"
-#TODO add google googleAnalytics id #
 googleAnalytics = "G-NLZ6WH3W47"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
